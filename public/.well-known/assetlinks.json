@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", "package_name": "m.tipwin.de",
-                 "sha256_cert_fingerprints": ["A5:A0:98:38:A0:53:FC:D7:A2:01:9E:D6:03:00:FD:54:E9:BF:B3:8A:5C:FB:93:DC:3E:17:59:F7:DB:0A:89:EA"] }
+                 "sha256_cert_fingerprints": ["91:93:A7:AE:5A:E4:9C:DC:3E:AC:6B:9A:EF:79:43:63:C3:E4:2D:CD:07:A1:BD:A3:9F:89:0C:C5:26:8A:8D:4A"] }
   }]
