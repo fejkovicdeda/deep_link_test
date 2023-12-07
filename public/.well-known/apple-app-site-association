@@ -1,0 +1,15 @@
+{
+    "applinks": {
+    "details": [
+      {
+        "appIDs": [ "45SMMCTR7X.com.tipwin.de" ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL whose path starts with /buy/"
+          }
+        ]
+      }
+    ]
+  }
+}
